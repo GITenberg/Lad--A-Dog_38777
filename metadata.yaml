@@ -1,0 +1,33 @@
+_repo: Lad--A-Dog_38777
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38777-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: 'American author and respected dog breeder Albert Payson Terhune was
+  so enamored of his handsome, loyal collie Lad that he was inspired to feature the
+  furry fellow in a series of short stories. Originally published in magazines, the
+  Lad stories became so popular that they took on a life of their own. Lad: A Dog,
+  the first collection of Terhune''s Lad tales, is sure to please dog lovers of all
+  ages.'
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2012-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+title: 'Lad: A Dog'
+url: http://www.gutenberg.org/ebooks/38777
